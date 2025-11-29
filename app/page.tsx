@@ -23,7 +23,7 @@ interface ClaimData {
   items?: any[]
 }
 
-export default function ClaimSnapApp() {
+export default function ClaimAdjudicateApp() {
   const [currentScreen, setCurrentScreen] = useState<Screen>("landing")
   const [claimData, setClaimData] = useState<ClaimData | null>(null)
 
@@ -56,7 +56,7 @@ export default function ClaimSnapApp() {
               {/* Left: Main CTA */}
               <div className="space-y-8">
                 <div className="space-y-4">
-                  <h1 className="text-5xl font-bold tracking-tight text-balance">ClaimSnap</h1>
+                  <h1 className="text-5xl font-bold tracking-tight text-balance">ClaimAdjudicate.ai</h1>
                   <p className="text-xl text-muted-foreground">Smart Claim Review</p>
                   <p className="text-lg text-foreground/80">Upload → Smart Checks → You Approve</p>
                 </div>

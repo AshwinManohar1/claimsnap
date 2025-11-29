@@ -104,7 +104,7 @@ export default function ClaimAdjudicateApp() {
                   ClaimAdjudicate.ai
                 </h1>
                 <p className="text-2xl md:text-3xl font-semibold text-muted-foreground max-w-3xl mx-auto">
-                  AI-Powered Health Insurance Claims Adjudication
+                  AI-Powered OPD Insurance Claims Adjudication
                 </p>
                 <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
                   Transform hours of manual review into seconds. Leverage advanced AI agents to analyze medical claims with 

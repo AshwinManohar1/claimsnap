@@ -13,8 +13,8 @@ const _sourceSerif_4 = V0_Font_Source_Serif_4({ subsets: ['latin'], weight: ["20
 
 export const metadata: Metadata = {
   // <CHANGE> Updated metadata for ClaimAdjudicate.ai app
-  title: "ClaimAdjudicate.ai - Smart Claim Adjudication",
-  description: "AI-powered health insurance claim review with human oversight",
+  title: "ClaimAdjudicate.ai - AI-Powered Claims Adjudication",
+  description: "Transform healthcare claims processing with Agentic AI. Automated medical necessity verification, policy compliance checks, and fraud detection with human-in-the-loop oversight. Built for MumbaiHacks 2025.",
   generator: "v0.app",
   icons: {
     icon: [
